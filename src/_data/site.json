@@ -1,0 +1,27 @@
+{
+  "name": "Alpine Acres Ranch",
+  "about": {
+    "body_2": "123",
+    "body_1": "123",
+    "pull_quote": "heartfelt"
+  },
+  "garlic": {
+    "intro_1": "123",
+    "intro_2": "123"
+  },
+  "tagline": "A family ranch — llamas, heirloom garlic, and the kind of life you build with your hands.",
+  "instagram": "@alpineacresadventures @alpineacrespackllamas",
+  "location": "Central Oregon",
+  "hero": {
+    "title_a": "A Ranch Built on Family, Land & Hard Work",
+    "title_b": "\"What began as a dream to live closer to the land has grown into something we couldn't have imagined.\""
+  },
+  "email": "alpinacres@gmail.com",
+  "stats": {
+    "acres": "30",
+    "est_year": "2022",
+    "years": "5",
+    "garlic_lbs": "50",
+    "llamas": "yeet"
+  }
+}
